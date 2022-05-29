@@ -1,2 +1,8 @@
-# college_trancebox_the_music_utility_tool
- 
+# Trancebox - The Composite Music Utility Tool
+
+* Media Player
+* Media Extractor
+* Audio Book Creator
+* Sound File Recorder
+* Melody Steganography
+* Audio File Splitter ‘N’ Merger
