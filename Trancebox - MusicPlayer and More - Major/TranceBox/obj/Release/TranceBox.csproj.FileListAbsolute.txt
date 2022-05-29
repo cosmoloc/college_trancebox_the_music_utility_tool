@@ -1,0 +1,13 @@
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\TranceBox.Form1.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\TranceBox.Form2.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\TranceBox.Form3.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\TranceBox.Form4.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\TranceBox.frmOverwrite.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\TranceBox.frmStatus.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\TranceBox.Properties.Resources.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\TranceBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\bin\Release\TranceBox.exe
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\bin\Release\TranceBox.pdb
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\TranceBox.exe
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Release\TranceBox.pdb

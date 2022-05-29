@@ -1,0 +1,1 @@
+TranceBox - Audio Book Creator is a utility provided with Trancebox that enables a user to import his own text file contents or may even  write/append any of the content and convert it to speech. This utility allows the user to hear the text and even save into a .wav format . Thus an audio file is created and saved for the user's future reference.

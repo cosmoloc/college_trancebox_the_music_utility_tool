@@ -1,0 +1,5 @@
+TranceBox Media Player is a Media Player with the basic functions to start, pause, stop or mute an audio file.
+It embeds with it a frequence Wave visualizer. Along with a trackbar to track its progress.
+The trackbar for volume controls the value of volume while that of balance controls the amplitude of volume from both the speakers.
+Also there are controls for bass and treble.
+The Media Player also shows the information of the audio file tagged with it. Thus fulfilling all the basic needs of a media player.

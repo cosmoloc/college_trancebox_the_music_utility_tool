@@ -1,0 +1,3 @@
+FLV Extractor is a utility that enables a user to extract audio, video and its timecodes separately as per the user's need and choice.
+It also calculates the frame rates of the video and additionally copies them to the clipboard for further use of user.
+This utility is mainly helpful to extract audio from a .flv video file.

@@ -1,0 +1,53 @@
+C:\Documents and Settings\Varma\My Documents\Visual Studio 2008\Projects\TranceBox\TranceBox\bin\Debug\TranceBox.exe
+C:\Documents and Settings\Varma\My Documents\Visual Studio 2008\Projects\TranceBox\TranceBox\bin\Debug\TranceBox.pdb
+C:\Documents and Settings\Varma\My Documents\Visual Studio 2008\Projects\TranceBox\TranceBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Varma\My Documents\Visual Studio 2008\Projects\TranceBox\TranceBox\obj\Debug\TranceBox.Form1.resources
+C:\Documents and Settings\Varma\My Documents\Visual Studio 2008\Projects\TranceBox\TranceBox\obj\Debug\TranceBox.Form2.resources
+C:\Documents and Settings\Varma\My Documents\Visual Studio 2008\Projects\TranceBox\TranceBox\obj\Debug\TranceBox.Properties.Resources.resources
+C:\Documents and Settings\Varma\My Documents\Visual Studio 2008\Projects\TranceBox\TranceBox\obj\Debug\TranceBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\Varma\My Documents\Visual Studio 2008\Projects\TranceBox\TranceBox\obj\Debug\TranceBox.exe
+C:\Documents and Settings\Varma\My Documents\Visual Studio 2008\Projects\TranceBox\TranceBox\obj\Debug\TranceBox.pdb
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\bin\Debug\TranceBox.exe
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\bin\Debug\TranceBox.pdb
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.Form1.resources
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.Form2.resources
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.Form3.resources
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.frmOverwrite.resources
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.frmStatus.resources
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.Properties.Resources.resources
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.exe
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.pdb
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\bin\Debug\TranceBox.exe
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\bin\Debug\TranceBox.pdb
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.Form1.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.Form2.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.Form3.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.Form4.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.frmOverwrite.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.frmStatus.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.Properties.Resources.resources
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.exe
+C:\Documents and Settings\USER\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.pdb
+C:\Documents and Settings\Varma\Desktop\TranceBoxWithMP3Tag\TranceBox\obj\Debug\TranceBox.Form4.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.exe
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.pdb
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\bin\Debug\TranceBox.exe
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\bin\Debug\TranceBox.pdb
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.Form1.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.Form2.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.Form3.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.Form4.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.frmOverwrite.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.frmStatus.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.Properties.Resources.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.About.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.Help1.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.Help2.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.Help3.resources
+C:\Documents and Settings\Varma\Desktop\Copy of TranceBox Basic Complete\TranceBox\obj\Debug\TranceBox.Help4.resources
